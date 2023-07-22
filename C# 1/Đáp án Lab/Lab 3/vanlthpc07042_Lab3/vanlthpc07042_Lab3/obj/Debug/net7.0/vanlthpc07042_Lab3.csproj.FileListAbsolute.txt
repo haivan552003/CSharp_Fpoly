@@ -1,0 +1,15 @@
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\bin\Debug\net7.0\vanlthpc07042_Lab3.exe
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\bin\Debug\net7.0\vanlthpc07042_Lab3.deps.json
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\bin\Debug\net7.0\vanlthpc07042_Lab3.runtimeconfig.json
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\bin\Debug\net7.0\vanlthpc07042_Lab3.dll
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\bin\Debug\net7.0\vanlthpc07042_Lab3.pdb
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\obj\Debug\net7.0\vanlthpc07042_Lab3.csproj.AssemblyReference.cache
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\obj\Debug\net7.0\vanlthpc07042_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\obj\Debug\net7.0\vanlthpc07042_Lab3.AssemblyInfoInputs.cache
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\obj\Debug\net7.0\vanlthpc07042_Lab3.AssemblyInfo.cs
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\obj\Debug\net7.0\vanlthpc07042_Lab3.csproj.CoreCompileInputs.cache
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\obj\Debug\net7.0\vanlthpc07042_Lab3.dll
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\obj\Debug\net7.0\refint\vanlthpc07042_Lab3.dll
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\obj\Debug\net7.0\vanlthpc07042_Lab3.pdb
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\obj\Debug\net7.0\vanlthpc07042_Lab3.genruntimeconfig.cache
+D:\C#\Lab3\vanlthpc07042_Lab3\vanlthpc07042_Lab3\obj\Debug\net7.0\ref\vanlthpc07042_Lab3.dll

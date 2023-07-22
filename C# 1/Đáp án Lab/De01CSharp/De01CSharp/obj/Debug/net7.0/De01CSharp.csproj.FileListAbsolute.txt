@@ -1,0 +1,15 @@
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\bin\Debug\net7.0\De01CSharp.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\bin\Debug\net7.0\De01CSharp.deps.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\bin\Debug\net7.0\De01CSharp.runtimeconfig.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\bin\Debug\net7.0\De01CSharp.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\bin\Debug\net7.0\De01CSharp.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\obj\Debug\net7.0\De01CSharp.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\obj\Debug\net7.0\De01CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\obj\Debug\net7.0\De01CSharp.AssemblyInfoInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\obj\Debug\net7.0\De01CSharp.AssemblyInfo.cs
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\obj\Debug\net7.0\De01CSharp.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\obj\Debug\net7.0\De01CSharp.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\obj\Debug\net7.0\refint\De01CSharp.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\obj\Debug\net7.0\De01CSharp.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\obj\Debug\net7.0\De01CSharp.genruntimeconfig.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\De01CSharp\De01CSharp\obj\Debug\net7.0\ref\De01CSharp.dll

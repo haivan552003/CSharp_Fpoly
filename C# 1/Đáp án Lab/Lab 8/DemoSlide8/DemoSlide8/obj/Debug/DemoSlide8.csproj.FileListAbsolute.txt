@@ -1,0 +1,8 @@
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 8\DemoSlide8\DemoSlide8\bin\Debug\DemoSlide8.exe.config
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 8\DemoSlide8\DemoSlide8\bin\Debug\DemoSlide8.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 8\DemoSlide8\DemoSlide8\bin\Debug\DemoSlide8.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 8\DemoSlide8\DemoSlide8\obj\Debug\DemoSlide8.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 8\DemoSlide8\DemoSlide8\obj\Debug\DemoSlide8.csproj.SuggestedBindingRedirects.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 8\DemoSlide8\DemoSlide8\obj\Debug\DemoSlide8.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 8\DemoSlide8\DemoSlide8\obj\Debug\DemoSlide8.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 8\DemoSlide8\DemoSlide8\obj\Debug\DemoSlide8.pdb

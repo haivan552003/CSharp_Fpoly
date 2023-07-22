@@ -1,0 +1,11 @@
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp_Asignment\Vanlthpc07042_CSharp_Asignment\obj\Debug\Vanlthpc07042_CSharp_Asignment.csproj.AssemblyReference.cache
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp_Asignment\Vanlthpc07042_CSharp_Asignment\obj\Debug\Vanlthpc07042_CSharp_Asignment.csproj.CoreCompileInputs.cache
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp_Asignment\Vanlthpc07042_CSharp_Asignment\bin\Debug\Vanlthpc07042_CSharp_Asignment.exe.config
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp_Asignment\Vanlthpc07042_CSharp_Asignment\bin\Debug\Vanlthpc07042_CSharp_Asignment.exe
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp_Asignment\Vanlthpc07042_CSharp_Asignment\bin\Debug\Vanlthpc07042_CSharp_Asignment.pdb
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp_Asignment\Vanlthpc07042_CSharp_Asignment\obj\Debug\Vanlthpc07042_CSharp_Asignment.exe
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp_Asignment\Vanlthpc07042_CSharp_Asignment\obj\Debug\Vanlthpc07042_CSharp_Asignment.pdb
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp_ASM_GD1\Vanlthpc07042_CSharp_Asignment\Vanlthpc07042_CSharp_Asignment\obj\Debug\Vanlthpc07042_CSharp_Asignment.csproj.AssemblyReference.cache
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp_ASM_GD1\Vanlthpc07042_CSharp_Asignment\Vanlthpc07042_CSharp_Asignment\obj\Debug\Vanlthpc07042_CSharp_Asignment.csproj.CoreCompileInputs.cache
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp_ASM_GD1\Vanlthpc07042_CSharp_Asignment\Vanlthpc07042_CSharp_Asignment\obj\Debug\Vanlthpc07042_CSharp_Asignment.exe
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp_ASM_GD1\Vanlthpc07042_CSharp_Asignment\Vanlthpc07042_CSharp_Asignment\obj\Debug\Vanlthpc07042_CSharp_Asignment.pdb

@@ -1,0 +1,30 @@
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.csproj.AssemblyReference.cache
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.AssemblyInfoInputs.cache
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.AssemblyInfo.cs
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.csproj.CoreCompileInputs.cache
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.exe
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.deps.json
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.runtimeconfig.json
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.dll
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.pdb
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.dll
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\refint\ASSIGNMENT.dll
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.pdb
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.genruntimeconfig.cache
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\ASM\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ref\ASSIGNMENT.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.deps.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.runtimeconfig.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.AssemblyInfoInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.AssemblyInfo.cs
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\refint\ASSIGNMENT.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.genruntimeconfig.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ref\ASSIGNMENT.dll

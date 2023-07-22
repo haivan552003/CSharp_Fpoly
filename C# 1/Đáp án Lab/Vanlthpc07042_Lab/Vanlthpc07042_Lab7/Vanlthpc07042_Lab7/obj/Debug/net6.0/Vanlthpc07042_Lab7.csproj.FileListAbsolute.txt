@@ -1,0 +1,15 @@
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\obj\Debug\net6.0\Vanlthpc07042_Lab7.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\obj\Debug\net6.0\Vanlthpc07042_Lab7.GeneratedMSBuildEditorConfig.editorconfig
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\obj\Debug\net6.0\Vanlthpc07042_Lab7.AssemblyInfoInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\obj\Debug\net6.0\Vanlthpc07042_Lab7.AssemblyInfo.cs
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\obj\Debug\net6.0\Vanlthpc07042_Lab7.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\bin\Debug\net6.0\Vanlthpc07042_Lab7.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\bin\Debug\net6.0\Vanlthpc07042_Lab7.deps.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\bin\Debug\net6.0\Vanlthpc07042_Lab7.runtimeconfig.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\bin\Debug\net6.0\Vanlthpc07042_Lab7.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\bin\Debug\net6.0\Vanlthpc07042_Lab7.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\obj\Debug\net6.0\Vanlthpc07042_Lab7.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\obj\Debug\net6.0\refint\Vanlthpc07042_Lab7.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\obj\Debug\net6.0\Vanlthpc07042_Lab7.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\obj\Debug\net6.0\Vanlthpc07042_Lab7.genruntimeconfig.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Vanlthpc07042_Lab7\Vanlthpc07042_Lab7\obj\Debug\net6.0\ref\Vanlthpc07042_Lab7.dll

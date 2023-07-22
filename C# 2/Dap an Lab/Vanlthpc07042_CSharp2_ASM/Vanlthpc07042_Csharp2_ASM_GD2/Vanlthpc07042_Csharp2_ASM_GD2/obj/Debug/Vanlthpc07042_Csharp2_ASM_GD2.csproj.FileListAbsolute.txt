@@ -1,0 +1,14 @@
+C:\Users\haiva\source\repos\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\bin\Debug\Vanlthpc07042_Csharp2_ASM_GD2.exe.config
+C:\Users\haiva\source\repos\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\bin\Debug\Vanlthpc07042_Csharp2_ASM_GD2.exe
+C:\Users\haiva\source\repos\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\bin\Debug\Vanlthpc07042_Csharp2_ASM_GD2.pdb
+C:\Users\haiva\source\repos\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\obj\Debug\Vanlthpc07042_Csharp2_ASM_GD2.csproj.AssemblyReference.cache
+C:\Users\haiva\source\repos\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\obj\Debug\Vanlthpc07042_Csharp2_ASM_GD2.csproj.CoreCompileInputs.cache
+C:\Users\haiva\source\repos\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\obj\Debug\Vanlthpc07042_Csharp2_ASM_GD2.exe
+C:\Users\haiva\source\repos\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\obj\Debug\Vanlthpc07042_Csharp2_ASM_GD2.pdb
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\bin\Debug\Vanlthpc07042_Csharp2_ASM_GD2.exe.config
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\bin\Debug\Vanlthpc07042_Csharp2_ASM_GD2.exe
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\bin\Debug\Vanlthpc07042_Csharp2_ASM_GD2.pdb
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\obj\Debug\Vanlthpc07042_Csharp2_ASM_GD2.csproj.AssemblyReference.cache
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\obj\Debug\Vanlthpc07042_Csharp2_ASM_GD2.csproj.CoreCompileInputs.cache
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\obj\Debug\Vanlthpc07042_Csharp2_ASM_GD2.exe
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_Csharp2_ASM_GD2\Vanlthpc07042_Csharp2_ASM_GD2\obj\Debug\Vanlthpc07042_Csharp2_ASM_GD2.pdb

@@ -1,0 +1,7 @@
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab8\Vanlthpc07042_CSharp2_Lab8\obj\Debug\Vanlthpc07042_CSharp2_Lab8.csproj.AssemblyReference.cache
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab8\Vanlthpc07042_CSharp2_Lab8\obj\Debug\Vanlthpc07042_CSharp2_Lab8.csproj.CoreCompileInputs.cache
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab8\Vanlthpc07042_CSharp2_Lab8\bin\Debug\Vanlthpc07042_CSharp2_Lab8.exe.config
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab8\Vanlthpc07042_CSharp2_Lab8\bin\Debug\Vanlthpc07042_CSharp2_Lab8.exe
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab8\Vanlthpc07042_CSharp2_Lab8\bin\Debug\Vanlthpc07042_CSharp2_Lab8.pdb
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab8\Vanlthpc07042_CSharp2_Lab8\obj\Debug\Vanlthpc07042_CSharp2_Lab8.exe
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab8\Vanlthpc07042_CSharp2_Lab8\obj\Debug\Vanlthpc07042_CSharp2_Lab8.pdb

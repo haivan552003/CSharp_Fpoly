@@ -1,0 +1,7 @@
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab2\demoslide1-2\demoslide1-2\bin\Debug\demoslide1-2.exe.config
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab2\demoslide1-2\demoslide1-2\bin\Debug\demoslide1-2.exe
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab2\demoslide1-2\demoslide1-2\bin\Debug\demoslide1-2.pdb
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab2\demoslide1-2\demoslide1-2\obj\Debug\demoslide1-2.csproj.AssemblyReference.cache
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab2\demoslide1-2\demoslide1-2\obj\Debug\demoslide1-2.csproj.CoreCompileInputs.cache
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab2\demoslide1-2\demoslide1-2\obj\Debug\demoslide1-2.exe
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab2\demoslide1-2\demoslide1-2\obj\Debug\demoslide1-2.pdb

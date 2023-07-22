@@ -1,0 +1,45 @@
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.exe
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.deps.json
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.runtimeconfig.json
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.dll
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.pdb
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.csproj.AssemblyReference.cache
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.AssemblyInfoInputs.cache
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.AssemblyInfo.cs
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.csproj.CoreCompileInputs.cache
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.dll
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\refint\vanlthpc07042_Lab3_Bai2.dll
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.pdb
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.genruntimeconfig.cache
+D:\C#\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\ref\vanlthpc07042_Lab3_Bai2.dll
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.exe
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.deps.json
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.runtimeconfig.json
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.dll
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.pdb
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.csproj.AssemblyReference.cache
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.AssemblyInfoInputs.cache
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.AssemblyInfo.cs
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.csproj.CoreCompileInputs.cache
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.dll
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\refint\vanlthpc07042_Lab3_Bai2.dll
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.pdb
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.genruntimeconfig.cache
+D:\C#\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\ref\vanlthpc07042_Lab3_Bai2.dll
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.exe
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.deps.json
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.runtimeconfig.json
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.dll
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\bin\Debug\net7.0\vanlthpc07042_Lab3_Bai2.pdb
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.csproj.AssemblyReference.cache
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.AssemblyInfoInputs.cache
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.AssemblyInfo.cs
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.csproj.CoreCompileInputs.cache
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.dll
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\refint\vanlthpc07042_Lab3_Bai2.dll
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.pdb
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\vanlthpc07042_Lab3_Bai2.genruntimeconfig.cache
+D:\C#\Lab3\Lab 3\vanlthpc07042_Lab3_Bai2\vanlthpc07042_Lab3_Bai2\obj\Debug\net7.0\ref\vanlthpc07042_Lab3_Bai2.dll

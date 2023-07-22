@@ -1,0 +1,30 @@
+D:\C#\Lab 4\Demo\Demo\bin\Debug\net7.0\Demo.exe
+D:\C#\Lab 4\Demo\Demo\bin\Debug\net7.0\Demo.deps.json
+D:\C#\Lab 4\Demo\Demo\bin\Debug\net7.0\Demo.runtimeconfig.json
+D:\C#\Lab 4\Demo\Demo\bin\Debug\net7.0\Demo.dll
+D:\C#\Lab 4\Demo\Demo\bin\Debug\net7.0\Demo.pdb
+D:\C#\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.csproj.AssemblyReference.cache
+D:\C#\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.AssemblyInfoInputs.cache
+D:\C#\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.AssemblyInfo.cs
+D:\C#\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.csproj.CoreCompileInputs.cache
+D:\C#\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.dll
+D:\C#\Lab 4\Demo\Demo\obj\Debug\net7.0\refint\Demo.dll
+D:\C#\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.pdb
+D:\C#\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.genruntimeconfig.cache
+D:\C#\Lab 4\Demo\Demo\obj\Debug\net7.0\ref\Demo.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\bin\Debug\net7.0\Demo.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\bin\Debug\net7.0\Demo.deps.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\bin\Debug\net7.0\Demo.runtimeconfig.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\bin\Debug\net7.0\Demo.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\bin\Debug\net7.0\Demo.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.AssemblyInfoInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.AssemblyInfo.cs
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\obj\Debug\net7.0\refint\Demo.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\obj\Debug\net7.0\Demo.genruntimeconfig.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\Demo\Demo\obj\Debug\net7.0\ref\Demo.dll

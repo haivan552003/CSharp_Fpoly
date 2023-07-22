@@ -1,0 +1,30 @@
+D:\C#\BTVN B1\Bai1\Bai1\bin\Debug\net6.0\Bai1.exe
+D:\C#\BTVN B1\Bai1\Bai1\bin\Debug\net6.0\Bai1.deps.json
+D:\C#\BTVN B1\Bai1\Bai1\bin\Debug\net6.0\Bai1.runtimeconfig.json
+D:\C#\BTVN B1\Bai1\Bai1\bin\Debug\net6.0\Bai1.dll
+D:\C#\BTVN B1\Bai1\Bai1\bin\Debug\net6.0\Bai1.pdb
+D:\C#\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.csproj.AssemblyReference.cache
+D:\C#\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfoInputs.cache
+D:\C#\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfo.cs
+D:\C#\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.csproj.CoreCompileInputs.cache
+D:\C#\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.dll
+D:\C#\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\refint\Bai1.dll
+D:\C#\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.pdb
+D:\C#\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.genruntimeconfig.cache
+D:\C#\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\ref\Bai1.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfoInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfo.cs
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\refint\Bai1.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\bin\Debug\net6.0\Bai1.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\bin\Debug\net6.0\Bai1.deps.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\bin\Debug\net6.0\Bai1.runtimeconfig.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\bin\Debug\net6.0\Bai1.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\bin\Debug\net6.0\Bai1.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\Bai1.genruntimeconfig.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\BTVN B1\Bai1\Bai1\obj\Debug\net6.0\ref\Bai1.dll

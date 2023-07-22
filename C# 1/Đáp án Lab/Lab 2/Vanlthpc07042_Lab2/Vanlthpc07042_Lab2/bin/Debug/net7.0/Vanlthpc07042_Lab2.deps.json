@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Vanlthpc07042_Lab2/1.0.0": {
+        "runtime": {
+          "Vanlthpc07042_Lab2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vanlthpc07042_Lab2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

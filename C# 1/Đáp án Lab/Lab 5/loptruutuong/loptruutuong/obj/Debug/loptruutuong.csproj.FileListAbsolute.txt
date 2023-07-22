@@ -1,0 +1,8 @@
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\loptruutuong\loptruutuong\bin\Debug\loptruutuong.exe.config
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\loptruutuong\loptruutuong\bin\Debug\loptruutuong.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\loptruutuong\loptruutuong\bin\Debug\loptruutuong.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\loptruutuong\loptruutuong\obj\Debug\loptruutuong.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\loptruutuong\loptruutuong\obj\Debug\loptruutuong.csproj.SuggestedBindingRedirects.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\loptruutuong\loptruutuong\obj\Debug\loptruutuong.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\loptruutuong\loptruutuong\obj\Debug\loptruutuong.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\loptruutuong\loptruutuong\obj\Debug\loptruutuong.pdb

@@ -1,0 +1,7 @@
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai5\vanlthpc07042_Lab2_Bai5\bin\Debug\vanlthpc07042_Lab2_Bai5.exe.config
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai5\vanlthpc07042_Lab2_Bai5\bin\Debug\vanlthpc07042_Lab2_Bai5.exe
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai5\vanlthpc07042_Lab2_Bai5\bin\Debug\vanlthpc07042_Lab2_Bai5.pdb
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai5\vanlthpc07042_Lab2_Bai5\obj\Debug\vanlthpc07042_Lab2_Bai5.csprojAssemblyReference.cache
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai5\vanlthpc07042_Lab2_Bai5\obj\Debug\vanlthpc07042_Lab2_Bai5.csproj.CoreCompileInputs.cache
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai5\vanlthpc07042_Lab2_Bai5\obj\Debug\vanlthpc07042_Lab2_Bai5.exe
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai5\vanlthpc07042_Lab2_Bai5\obj\Debug\vanlthpc07042_Lab2_Bai5.pdb

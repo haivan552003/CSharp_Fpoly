@@ -1,0 +1,15 @@
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\bin\Debug\net6.0\Vanlthpc07042_Lab5_Bai1.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\bin\Debug\net6.0\Vanlthpc07042_Lab5_Bai1.deps.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\bin\Debug\net6.0\Vanlthpc07042_Lab5_Bai1.runtimeconfig.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\bin\Debug\net6.0\Vanlthpc07042_Lab5_Bai1.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\bin\Debug\net6.0\Vanlthpc07042_Lab5_Bai1.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\obj\Debug\net6.0\Vanlthpc07042_Lab5_Bai1.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\obj\Debug\net6.0\Vanlthpc07042_Lab5_Bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\obj\Debug\net6.0\Vanlthpc07042_Lab5_Bai1.AssemblyInfoInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\obj\Debug\net6.0\Vanlthpc07042_Lab5_Bai1.AssemblyInfo.cs
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\obj\Debug\net6.0\Vanlthpc07042_Lab5_Bai1.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\obj\Debug\net6.0\Vanlthpc07042_Lab5_Bai1.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\obj\Debug\net6.0\refint\Vanlthpc07042_Lab5_Bai1.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\obj\Debug\net6.0\Vanlthpc07042_Lab5_Bai1.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\obj\Debug\net6.0\Vanlthpc07042_Lab5_Bai1.genruntimeconfig.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\Vanlthpc07042_Lab5_Bai1\Vanlthpc07042_Lab5_Bai1\obj\Debug\net6.0\ref\Vanlthpc07042_Lab5_Bai1.dll

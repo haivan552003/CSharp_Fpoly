@@ -1,0 +1,15 @@
+C:\Users\realm\Desktop\ThiThu\ThiThu\bin\Debug\net6.0\ThiThu.exe
+C:\Users\realm\Desktop\ThiThu\ThiThu\bin\Debug\net6.0\ThiThu.deps.json
+C:\Users\realm\Desktop\ThiThu\ThiThu\bin\Debug\net6.0\ThiThu.runtimeconfig.json
+C:\Users\realm\Desktop\ThiThu\ThiThu\bin\Debug\net6.0\ThiThu.dll
+C:\Users\realm\Desktop\ThiThu\ThiThu\bin\Debug\net6.0\ThiThu.pdb
+C:\Users\realm\Desktop\ThiThu\ThiThu\obj\Debug\net6.0\ThiThu.csproj.AssemblyReference.cache
+C:\Users\realm\Desktop\ThiThu\ThiThu\obj\Debug\net6.0\ThiThu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\realm\Desktop\ThiThu\ThiThu\obj\Debug\net6.0\ThiThu.AssemblyInfoInputs.cache
+C:\Users\realm\Desktop\ThiThu\ThiThu\obj\Debug\net6.0\ThiThu.AssemblyInfo.cs
+C:\Users\realm\Desktop\ThiThu\ThiThu\obj\Debug\net6.0\ThiThu.csproj.CoreCompileInputs.cache
+C:\Users\realm\Desktop\ThiThu\ThiThu\obj\Debug\net6.0\ThiThu.dll
+C:\Users\realm\Desktop\ThiThu\ThiThu\obj\Debug\net6.0\refint\ThiThu.dll
+C:\Users\realm\Desktop\ThiThu\ThiThu\obj\Debug\net6.0\ThiThu.pdb
+C:\Users\realm\Desktop\ThiThu\ThiThu\obj\Debug\net6.0\ThiThu.genruntimeconfig.cache
+C:\Users\realm\Desktop\ThiThu\ThiThu\obj\Debug\net6.0\ref\ThiThu.dll

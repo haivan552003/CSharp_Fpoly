@@ -1,0 +1,15 @@
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\bin\Debug\net6.0\Tutor_Onthi.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\bin\Debug\net6.0\Tutor_Onthi.deps.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\bin\Debug\net6.0\Tutor_Onthi.runtimeconfig.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\bin\Debug\net6.0\Tutor_Onthi.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\bin\Debug\net6.0\Tutor_Onthi.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\obj\Debug\net6.0\Tutor_Onthi.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\obj\Debug\net6.0\Tutor_Onthi.GeneratedMSBuildEditorConfig.editorconfig
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\obj\Debug\net6.0\Tutor_Onthi.AssemblyInfoInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\obj\Debug\net6.0\Tutor_Onthi.AssemblyInfo.cs
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\obj\Debug\net6.0\Tutor_Onthi.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\obj\Debug\net6.0\Tutor_Onthi.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\obj\Debug\net6.0\refint\Tutor_Onthi.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\obj\Debug\net6.0\Tutor_Onthi.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\obj\Debug\net6.0\Tutor_Onthi.genruntimeconfig.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Tutor_Onthi\Tutor_Onthi\obj\Debug\net6.0\ref\Tutor_Onthi.dll

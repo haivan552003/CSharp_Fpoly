@@ -1,0 +1,15 @@
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\bin\Debug\net6.0\TURTO_BUOI2.exe
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\bin\Debug\net6.0\TURTO_BUOI2.deps.json
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\bin\Debug\net6.0\TURTO_BUOI2.runtimeconfig.json
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\bin\Debug\net6.0\TURTO_BUOI2.dll
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\bin\Debug\net6.0\TURTO_BUOI2.pdb
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\obj\Debug\net6.0\TURTO_BUOI2.csproj.AssemblyReference.cache
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\obj\Debug\net6.0\TURTO_BUOI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\obj\Debug\net6.0\TURTO_BUOI2.AssemblyInfoInputs.cache
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\obj\Debug\net6.0\TURTO_BUOI2.AssemblyInfo.cs
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\obj\Debug\net6.0\TURTO_BUOI2.csproj.CoreCompileInputs.cache
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\obj\Debug\net6.0\TURTO_BUOI2.dll
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\obj\Debug\net6.0\refint\TURTO_BUOI2.dll
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\obj\Debug\net6.0\TURTO_BUOI2.pdb
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\obj\Debug\net6.0\TURTO_BUOI2.genruntimeconfig.cache
+C:\Users\realm\Desktop\TURTO_BUOI2\TURTO_BUOI2\obj\Debug\net6.0\ref\TURTO_BUOI2.dll

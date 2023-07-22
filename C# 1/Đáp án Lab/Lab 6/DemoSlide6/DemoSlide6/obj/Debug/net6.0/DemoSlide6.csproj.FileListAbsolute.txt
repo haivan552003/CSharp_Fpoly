@@ -1,0 +1,15 @@
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\bin\Debug\net6.0\DemoSlide6.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\bin\Debug\net6.0\DemoSlide6.deps.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\bin\Debug\net6.0\DemoSlide6.runtimeconfig.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\bin\Debug\net6.0\DemoSlide6.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\bin\Debug\net6.0\DemoSlide6.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\obj\Debug\net6.0\DemoSlide6.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\obj\Debug\net6.0\DemoSlide6.GeneratedMSBuildEditorConfig.editorconfig
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\obj\Debug\net6.0\DemoSlide6.AssemblyInfoInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\obj\Debug\net6.0\DemoSlide6.AssemblyInfo.cs
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\obj\Debug\net6.0\DemoSlide6.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\obj\Debug\net6.0\DemoSlide6.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\obj\Debug\net6.0\refint\DemoSlide6.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\obj\Debug\net6.0\DemoSlide6.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\obj\Debug\net6.0\DemoSlide6.genruntimeconfig.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 6\DemoSlide6\DemoSlide6\obj\Debug\net6.0\ref\DemoSlide6.dll

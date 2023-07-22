@@ -1,0 +1,15 @@
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\bin\Debug\net6.0\Test_De2.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\bin\Debug\net6.0\Test_De2.deps.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\bin\Debug\net6.0\Test_De2.runtimeconfig.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\bin\Debug\net6.0\Test_De2.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\bin\Debug\net6.0\Test_De2.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\obj\Debug\net6.0\Test_De2.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\obj\Debug\net6.0\Test_De2.GeneratedMSBuildEditorConfig.editorconfig
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\obj\Debug\net6.0\Test_De2.AssemblyInfoInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\obj\Debug\net6.0\Test_De2.AssemblyInfo.cs
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\obj\Debug\net6.0\Test_De2.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\obj\Debug\net6.0\Test_De2.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\obj\Debug\net6.0\refint\Test_De2.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\obj\Debug\net6.0\Test_De2.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\obj\Debug\net6.0\Test_De2.genruntimeconfig.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Test_De2\Test_De2\obj\Debug\net6.0\ref\Test_De2.dll

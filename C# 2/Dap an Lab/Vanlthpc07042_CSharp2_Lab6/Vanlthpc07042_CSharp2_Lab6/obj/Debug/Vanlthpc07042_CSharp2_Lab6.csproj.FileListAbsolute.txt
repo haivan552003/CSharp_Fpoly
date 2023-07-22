@@ -1,0 +1,7 @@
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab6\Vanlthpc07042_CSharp2_Lab6\bin\Debug\Vanlthpc07042_CSharp2_Lab6.exe.config
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab6\Vanlthpc07042_CSharp2_Lab6\bin\Debug\Vanlthpc07042_CSharp2_Lab6.exe
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab6\Vanlthpc07042_CSharp2_Lab6\bin\Debug\Vanlthpc07042_CSharp2_Lab6.pdb
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab6\Vanlthpc07042_CSharp2_Lab6\obj\Debug\Vanlthpc07042_CSharp2_Lab6.csproj.AssemblyReference.cache
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab6\Vanlthpc07042_CSharp2_Lab6\obj\Debug\Vanlthpc07042_CSharp2_Lab6.csproj.CoreCompileInputs.cache
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab6\Vanlthpc07042_CSharp2_Lab6\obj\Debug\Vanlthpc07042_CSharp2_Lab6.exe
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab6\Vanlthpc07042_CSharp2_Lab6\obj\Debug\Vanlthpc07042_CSharp2_Lab6.pdb

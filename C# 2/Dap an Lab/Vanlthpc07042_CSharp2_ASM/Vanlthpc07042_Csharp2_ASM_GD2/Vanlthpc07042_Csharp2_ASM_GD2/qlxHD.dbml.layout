@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="qlxHD">
+  <DataContextMoniker Name="/qlxHDDataContext" />
+  <nestedChildShapes>
+    <classShape Id="121e758e-158b-482a-90ea-d42cefc8c7f5" absoluteBounds="3.75, 1.875, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/qlxHDDataContext/LOAIXE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4cf4fc22-791c-4f45-a906-279b1fbc9a50" absoluteBounds="3.765, 2.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b61817c7-e463-40dc-a3a6-f196ce9deb94" absoluteBounds="5.75, 1.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/qlxHDDataContext/THONGTINXE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b2850727-fbe5-4fd7-a725-93a95cb48a41" absoluteBounds="5.765, 1.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.71875 : 1.875); (4.71875 : 1.5624995); (5.75 : 1.5624995)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/qlxHDDataContext/LOAIXE/LOAIXE_THONGTINXE" />
+      <nodes>
+        <classShapeMoniker Id="121e758e-158b-482a-90ea-d42cefc8c7f5" />
+        <classShapeMoniker Id="b61817c7-e463-40dc-a3a6-f196ce9deb94" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

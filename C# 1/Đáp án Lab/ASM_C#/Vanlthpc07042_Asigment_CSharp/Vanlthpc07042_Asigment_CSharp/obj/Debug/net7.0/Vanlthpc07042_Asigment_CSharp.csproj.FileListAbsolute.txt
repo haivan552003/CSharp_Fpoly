@@ -1,0 +1,45 @@
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.exe
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.deps.json
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.runtimeconfig.json
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.dll
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.pdb
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.csproj.AssemblyReference.cache
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.AssemblyInfoInputs.cache
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.AssemblyInfo.cs
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.csproj.CoreCompileInputs.cache
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.dll
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\refint\Vanlthpc07042_Asigment_CSharp.dll
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.pdb
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.genruntimeconfig.cache
+D:\C#\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\ref\Vanlthpc07042_Asigment_CSharp.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.AssemblyInfoInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.AssemblyInfo.cs
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\refint\Vanlthpc07042_Asigment_CSharp.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.deps.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.runtimeconfig.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.genruntimeconfig.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\ref\Vanlthpc07042_Asigment_CSharp.dll
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.exe
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.deps.json
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.runtimeconfig.json
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.dll
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\bin\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.pdb
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.csproj.AssemblyReference.cache
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.AssemblyInfoInputs.cache
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.AssemblyInfo.cs
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.dll
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\refint\Vanlthpc07042_Asigment_CSharp.dll
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.pdb
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\Vanlthpc07042_Asigment_CSharp.genruntimeconfig.cache
+C:\Users\realm\Desktop\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\obj\Debug\net7.0\ref\Vanlthpc07042_Asigment_CSharp.dll

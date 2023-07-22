@@ -1,0 +1,23 @@
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\bin\Debug\vanlthpc07042_Lab2_Bai3.exe.config
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\bin\Debug\vanlthpc07042_Lab2_Bai3.exe
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\bin\Debug\vanlthpc07042_Lab2_Bai3.pdb
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.csprojAssemblyReference.cache
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.csproj.CoreCompileInputs.cache
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.exe
+D:\X\C#1\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\bin\Debug\vanlthpc07042_Lab2_Bai3.exe.config
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\bin\Debug\vanlthpc07042_Lab2_Bai3.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\bin\Debug\vanlthpc07042_Lab2_Bai3.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.csproj.SuggestedBindingRedirects.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 2\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.pdb
+D:\C#\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.csproj.AssemblyReference.cache
+D:\C#\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.csproj.SuggestedBindingRedirects.cache
+D:\C#\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.csproj.CoreCompileInputs.cache
+D:\C#\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.exe
+D:\C#\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\obj\Debug\vanlthpc07042_Lab2_Bai3.pdb
+D:\C#\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\bin\Debug\vanlthpc07042_Lab2_Bai3.exe.config
+D:\C#\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\bin\Debug\vanlthpc07042_Lab2_Bai3.exe
+D:\C#\vanlthpc07042_Lab2_Bai3\vanlthpc07042_Lab2_Bai3\bin\Debug\vanlthpc07042_Lab2_Bai3.pdb

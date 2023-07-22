@@ -1,0 +1,23 @@
+D:\X\C#1\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.csprojAssemblyReference.cache
+D:\X\C#1\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.csproj.CoreCompileInputs.cache
+D:\X\C#1\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\bin\Debug\vanlthpc07042_Lab4_Bai1.exe.config
+D:\X\C#1\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\bin\Debug\vanlthpc07042_Lab4_Bai1.exe
+D:\X\C#1\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\bin\Debug\vanlthpc07042_Lab4_Bai1.pdb
+D:\X\C#1\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.exe
+D:\X\C#1\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.pdb
+D:\C#\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.csproj.AssemblyReference.cache
+D:\C#\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.csproj.SuggestedBindingRedirects.cache
+D:\C#\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.csproj.CoreCompileInputs.cache
+D:\C#\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.exe
+D:\C#\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.pdb
+D:\C#\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\bin\Debug\vanlthpc07042_Lab4_Bai1.exe.config
+D:\C#\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\bin\Debug\vanlthpc07042_Lab4_Bai1.exe
+D:\C#\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\bin\Debug\vanlthpc07042_Lab4_Bai1.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\bin\Debug\vanlthpc07042_Lab4_Bai1.exe.config
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\bin\Debug\vanlthpc07042_Lab4_Bai1.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\bin\Debug\vanlthpc07042_Lab4_Bai1.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.csproj.SuggestedBindingRedirects.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 4\vanlthpc07042_Lab4_Bai1\vanlthpc07042_Lab4_Bai1\obj\Debug\vanlthpc07042_Lab4_Bai1.pdb

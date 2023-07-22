@@ -1,0 +1,15 @@
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\bin\Debug\net7.0\Vanlthpc07042_Lab4_Bai2.exe
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\bin\Debug\net7.0\Vanlthpc07042_Lab4_Bai2.deps.json
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\bin\Debug\net7.0\Vanlthpc07042_Lab4_Bai2.runtimeconfig.json
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\bin\Debug\net7.0\Vanlthpc07042_Lab4_Bai2.dll
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\bin\Debug\net7.0\Vanlthpc07042_Lab4_Bai2.pdb
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\obj\Debug\net7.0\Vanlthpc07042_Lab4_Bai2.csproj.AssemblyReference.cache
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\obj\Debug\net7.0\Vanlthpc07042_Lab4_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\obj\Debug\net7.0\Vanlthpc07042_Lab4_Bai2.AssemblyInfoInputs.cache
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\obj\Debug\net7.0\Vanlthpc07042_Lab4_Bai2.AssemblyInfo.cs
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\obj\Debug\net7.0\Vanlthpc07042_Lab4_Bai2.csproj.CoreCompileInputs.cache
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\obj\Debug\net7.0\Vanlthpc07042_Lab4_Bai2.dll
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\obj\Debug\net7.0\refint\Vanlthpc07042_Lab4_Bai2.dll
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\obj\Debug\net7.0\Vanlthpc07042_Lab4_Bai2.pdb
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\obj\Debug\net7.0\Vanlthpc07042_Lab4_Bai2.genruntimeconfig.cache
+D:\C#\Lab 4\Vanlthpc07042_Lab4_Bai2\Vanlthpc07042_Lab4_Bai2\obj\Debug\net7.0\ref\Vanlthpc07042_Lab4_Bai2.dll

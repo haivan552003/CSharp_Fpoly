@@ -1,0 +1,7 @@
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab1_Bai4\Vanlthpc07042_CSharp2_Lab1_Bai4\bin\Debug\Vanlthpc07042_CSharp2_Lab1_Bai4.exe.config
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab1_Bai4\Vanlthpc07042_CSharp2_Lab1_Bai4\bin\Debug\Vanlthpc07042_CSharp2_Lab1_Bai4.exe
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab1_Bai4\Vanlthpc07042_CSharp2_Lab1_Bai4\bin\Debug\Vanlthpc07042_CSharp2_Lab1_Bai4.pdb
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab1_Bai4\Vanlthpc07042_CSharp2_Lab1_Bai4\obj\Debug\Vanlthpc07042_CSharp2_Lab1_Bai4.csproj.AssemblyReference.cache
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab1_Bai4\Vanlthpc07042_CSharp2_Lab1_Bai4\obj\Debug\Vanlthpc07042_CSharp2_Lab1_Bai4.csproj.CoreCompileInputs.cache
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab1_Bai4\Vanlthpc07042_CSharp2_Lab1_Bai4\obj\Debug\Vanlthpc07042_CSharp2_Lab1_Bai4.exe
+C:\Users\haiva\source\repos\Vanlthpc07042_CSharp2_Lab1_Bai4\Vanlthpc07042_CSharp2_Lab1_Bai4\obj\Debug\Vanlthpc07042_CSharp2_Lab1_Bai4.pdb

@@ -1,0 +1,15 @@
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\bin\Debug\net6.0\Bai4.exe
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\bin\Debug\net6.0\Bai4.deps.json
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\bin\Debug\net6.0\Bai4.runtimeconfig.json
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\bin\Debug\net6.0\Bai4.dll
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\bin\Debug\net6.0\Bai4.pdb
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\obj\Debug\net6.0\Bai4.csproj.AssemblyReference.cache
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\obj\Debug\net6.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\obj\Debug\net6.0\Bai4.AssemblyInfoInputs.cache
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\obj\Debug\net6.0\Bai4.AssemblyInfo.cs
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\obj\Debug\net6.0\Bai4.csproj.CoreCompileInputs.cache
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\obj\Debug\net6.0\Bai4.dll
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\obj\Debug\net6.0\refint\Bai4.dll
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\obj\Debug\net6.0\Bai4.pdb
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\obj\Debug\net6.0\Bai4.genruntimeconfig.cache
+D:\FPT POLYTECHNIC\Hoc Ki 2\Lập Trình C#\Nộp Bài\Lab\Lab 8\Bai4\Bai4\obj\Debug\net6.0\ref\Bai4.dll

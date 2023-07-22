@@ -1,0 +1,8 @@
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab3\Vanlthpc07042_CSharp2_Lab3\obj\Debug\Vanlthpc07042_CSharp2_Lab3.csproj.AssemblyReference.cache
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab3\Vanlthpc07042_CSharp2_Lab3\obj\Debug\Vanlthpc07042_CSharp2_Lab3.csproj.CoreCompileInputs.cache
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab3\Vanlthpc07042_CSharp2_Lab3\obj\Debug\Vanlthpc07042_CSharp2_Lab3.csproj.SuggestedBindingRedirects.cache
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab3\Vanlthpc07042_CSharp2_Lab3\bin\Debug\Vanlthpc07042_CSharp2_Lab3.exe.config
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab3\Vanlthpc07042_CSharp2_Lab3\bin\Debug\Vanlthpc07042_CSharp2_Lab3.exe
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab3\Vanlthpc07042_CSharp2_Lab3\bin\Debug\Vanlthpc07042_CSharp2_Lab3.pdb
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab3\Vanlthpc07042_CSharp2_Lab3\obj\Debug\Vanlthpc07042_CSharp2_Lab3.exe
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab3\Vanlthpc07042_CSharp2_Lab3\obj\Debug\Vanlthpc07042_CSharp2_Lab3.pdb

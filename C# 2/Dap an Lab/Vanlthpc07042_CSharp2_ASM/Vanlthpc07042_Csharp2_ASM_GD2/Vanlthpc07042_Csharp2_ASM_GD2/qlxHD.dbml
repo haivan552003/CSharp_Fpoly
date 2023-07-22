@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QUANLYXEHONDA" Class="qlxHDDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-HIOFI47\SQLEXPRESS;Initial Catalog=QUANLYXEHONDA;Integrated Security=True" SettingsObjectName="Vanlthpc07042_Csharp2_ASM_GD2.Properties.Settings" SettingsPropertyName="QUANLYXEHONDAConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.LOAIXE" Member="LOAIXEs">
+    <Type Name="LOAIXE">
+      <Column Name="MaLoaiXe" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenLoaiXe" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Association Name="LOAIXE_THONGTINXE" Member="THONGTINXEs" ThisKey="MaLoaiXe" OtherKey="MaLoaiXe" Type="THONGTINXE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.THONGTINXE" Member="THONGTINXEs">
+    <Type Name="THONGTINXE">
+      <Column Name="MaXe" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaLoaiXe" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="TenXe" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="Gia" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="MauXe" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="DongCo" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KhoiLuong" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Association Name="LOAIXE_THONGTINXE" Member="LOAIXE" ThisKey="MaLoaiXe" OtherKey="MaLoaiXe" Type="LOAIXE" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

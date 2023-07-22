@@ -1,0 +1,7 @@
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab1\Vanlthpc07042_CSharp2_Lab1_Bai1\Vanlthpc07042_CSharp2_Lab1_Bai1\bin\Debug\Vanlthpc07042_CSharp2_Lab1_Bai1.exe.config
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab1\Vanlthpc07042_CSharp2_Lab1_Bai1\Vanlthpc07042_CSharp2_Lab1_Bai1\bin\Debug\Vanlthpc07042_CSharp2_Lab1_Bai1.exe
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab1\Vanlthpc07042_CSharp2_Lab1_Bai1\Vanlthpc07042_CSharp2_Lab1_Bai1\bin\Debug\Vanlthpc07042_CSharp2_Lab1_Bai1.pdb
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab1\Vanlthpc07042_CSharp2_Lab1_Bai1\Vanlthpc07042_CSharp2_Lab1_Bai1\obj\Debug\Vanlthpc07042_CSharp2_Lab1_Bai1.csproj.AssemblyReference.cache
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab1\Vanlthpc07042_CSharp2_Lab1_Bai1\Vanlthpc07042_CSharp2_Lab1_Bai1\obj\Debug\Vanlthpc07042_CSharp2_Lab1_Bai1.csproj.CoreCompileInputs.cache
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab1\Vanlthpc07042_CSharp2_Lab1_Bai1\Vanlthpc07042_CSharp2_Lab1_Bai1\obj\Debug\Vanlthpc07042_CSharp2_Lab1_Bai1.exe
+E:\X\FPT POLYTECHNIC\C# FPoly\C# 2\Dap an Lab\Vanlthpc07042_CSharp2_Lab1\Vanlthpc07042_CSharp2_Lab1_Bai1\Vanlthpc07042_CSharp2_Lab1_Bai1\obj\Debug\Vanlthpc07042_CSharp2_Lab1_Bai1.pdb

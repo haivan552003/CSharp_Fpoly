@@ -1,0 +1,15 @@
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\bin\Debug\net6.0\Final_Test.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\bin\Debug\net6.0\Final_Test.deps.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\bin\Debug\net6.0\Final_Test.runtimeconfig.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\bin\Debug\net6.0\Final_Test.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\bin\Debug\net6.0\Final_Test.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\obj\Debug\net6.0\Final_Test.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\obj\Debug\net6.0\Final_Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\obj\Debug\net6.0\Final_Test.AssemblyInfoInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\obj\Debug\net6.0\Final_Test.AssemblyInfo.cs
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\obj\Debug\net6.0\Final_Test.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\obj\Debug\net6.0\Final_Test.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\obj\Debug\net6.0\refint\Final_Test.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\obj\Debug\net6.0\Final_Test.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\obj\Debug\net6.0\Final_Test.genruntimeconfig.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Final_Test\Final_Test\obj\Debug\net6.0\ref\Final_Test.dll

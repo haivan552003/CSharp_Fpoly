@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Vanlthpc07042_Asigment_CSharp
+build_property.ProjectDir = E:\X\FPT POLYTECHNIC\C# FPoly\C# 1\Đáp án Lab\ASM_C#\Vanlthpc07042_Asigment_CSharp\Vanlthpc07042_Asigment_CSharp\

@@ -1,0 +1,15 @@
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\bin\Debug\net6.0\DemoSlide7.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\bin\Debug\net6.0\DemoSlide7.deps.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\bin\Debug\net6.0\DemoSlide7.runtimeconfig.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\bin\Debug\net6.0\DemoSlide7.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\bin\Debug\net6.0\DemoSlide7.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\obj\Debug\net6.0\DemoSlide7.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\obj\Debug\net6.0\DemoSlide7.GeneratedMSBuildEditorConfig.editorconfig
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\obj\Debug\net6.0\DemoSlide7.AssemblyInfoInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\obj\Debug\net6.0\DemoSlide7.AssemblyInfo.cs
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\obj\Debug\net6.0\DemoSlide7.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\obj\Debug\net6.0\DemoSlide7.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\obj\Debug\net6.0\refint\DemoSlide7.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\obj\Debug\net6.0\DemoSlide7.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\obj\Debug\net6.0\DemoSlide7.genruntimeconfig.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 7\DemoSlide7\DemoSlide7\obj\Debug\net6.0\ref\DemoSlide7.dll

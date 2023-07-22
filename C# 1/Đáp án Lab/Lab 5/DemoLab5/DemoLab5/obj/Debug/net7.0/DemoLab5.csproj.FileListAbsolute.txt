@@ -1,0 +1,30 @@
+D:\C#\Lab 4\DemoLab5\DemoLab5\bin\Debug\net7.0\DemoLab5.exe
+D:\C#\Lab 4\DemoLab5\DemoLab5\bin\Debug\net7.0\DemoLab5.deps.json
+D:\C#\Lab 4\DemoLab5\DemoLab5\bin\Debug\net7.0\DemoLab5.runtimeconfig.json
+D:\C#\Lab 4\DemoLab5\DemoLab5\bin\Debug\net7.0\DemoLab5.dll
+D:\C#\Lab 4\DemoLab5\DemoLab5\bin\Debug\net7.0\DemoLab5.pdb
+D:\C#\Lab 4\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.csproj.AssemblyReference.cache
+D:\C#\Lab 4\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab 4\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.AssemblyInfoInputs.cache
+D:\C#\Lab 4\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.AssemblyInfo.cs
+D:\C#\Lab 4\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.csproj.CoreCompileInputs.cache
+D:\C#\Lab 4\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.dll
+D:\C#\Lab 4\DemoLab5\DemoLab5\obj\Debug\net7.0\refint\DemoLab5.dll
+D:\C#\Lab 4\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.pdb
+D:\C#\Lab 4\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.genruntimeconfig.cache
+D:\C#\Lab 4\DemoLab5\DemoLab5\obj\Debug\net7.0\ref\DemoLab5.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\bin\Debug\net7.0\DemoLab5.exe
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\bin\Debug\net7.0\DemoLab5.deps.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\bin\Debug\net7.0\DemoLab5.runtimeconfig.json
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\bin\Debug\net7.0\DemoLab5.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\bin\Debug\net7.0\DemoLab5.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.csproj.AssemblyReference.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.GeneratedMSBuildEditorConfig.editorconfig
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.AssemblyInfoInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.AssemblyInfo.cs
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.csproj.CoreCompileInputs.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\obj\Debug\net7.0\refint\DemoLab5.dll
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.pdb
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\obj\Debug\net7.0\DemoLab5.genruntimeconfig.cache
+E:\X\C# FPoly\C# 1\Đáp án Lab\Lab 5\DemoLab5\DemoLab5\obj\Debug\net7.0\ref\DemoLab5.dll
